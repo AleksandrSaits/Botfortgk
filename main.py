@@ -1,8 +1,8 @@
 import telebot
 from telebot import types
 
-TOKEN = "ТВОЙ_ТОКЕН"
-ADMIN_ID = 123456789  # твой Telegram ID
+TOKEN = "8755271111:AAEi6jCO2sMh9A3A6Cmpn4SDK69uT8cuJBo"
+ADMIN_ID = 8559107011  # твой Telegram ID
 CHANNEL = "@alex_ai_devel"  # твой канал
 
 bot = telebot.TeleBot(TOKEN)
